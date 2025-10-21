@@ -17,7 +17,7 @@ Determine how game pricing and discount levels correlate with review sentiment, 
 - **Dataset:** [Steam Store 2024 – Hot Picks & Reviews (Kaggle)](https://www.kaggle.com/datasets/kanchana1990/steam-store-2024-hot-picks-and-reviews)
 # Dashboard
 ![Dashboard](dashboard.png) 
-💡 Key Insights
+### 💡 Key Insights
 
 - Mid-priced games ($5–30) with 25–50% discounts achieve the highest average sentiment (~4.0/5).
 
